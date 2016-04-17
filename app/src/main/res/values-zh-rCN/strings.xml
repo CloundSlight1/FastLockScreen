@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">锁屏</string>
+    <string name="receiver_label">锁屏</string>
+    <string name="receiver_description">一键锁屏</string>
+</resources>

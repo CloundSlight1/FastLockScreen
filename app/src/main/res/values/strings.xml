@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FastLockScreen</string>
+    <string name="receiver_label">fast lock screen</string>
+    <string name="receiver_description">to fast lock screen</string>
+</resources>
